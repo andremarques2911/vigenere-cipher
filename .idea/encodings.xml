@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher1.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher10.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher11.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher12.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher13.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher14.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher15.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher16.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher17.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher18.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher19.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher2.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher20.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher21.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher22.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher23.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher24.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher25.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher26.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher27.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher28.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher29.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher3.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher30.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher31.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher4.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher5.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher6.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher7.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher8.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/cipher9.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/texto-cifrado-ingles.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/texts/encrypted/texto-cifrado-portugues.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="ISO-8859-1" />
+  </component>
+</project>

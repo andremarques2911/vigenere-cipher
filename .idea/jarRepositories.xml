@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="libs-HEAD-snapshot" />
+      <option name="name" value="gc-jardimolinda.embratec.local-HEAD-snapshot" />
+      <option name="url" value="http://tl-douradilho-02.embratec.local:8081/artifactory/libs-HEAD-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dev-azure-com-edenred-ticketlog-releases" />
+      <option name="name" value="dev-azure-com-edenred-ticketlog-releases" />
+      <option name="url" value="https://pkgs.dev.azure.com/Edenred-TicketLog/_packaging/releases/maven/v1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="libs-HEAD-release" />
+      <option name="name" value="gc-jardimolinda.embratec.local-HEAD-releases" />
+      <option name="url" value="http://tl-douradilho-02.embratec.local:8081/artifactory/libs-HEAD-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ext-snapshot-local" />
+      <option name="name" value="gc-jardimolinda.embratec.local-ext-snapshot" />
+      <option name="url" value="http://tl-douradilho-02.embratec.local:8081/artifactory/ext-snapshot-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dev-azure-com-edenred-ticketlog-jars" />
+      <option name="name" value="dev-azure-com-edenred-ticketlog-jars" />
+      <option name="url" value="https://pkgs.dev.azure.com/Edenred-TicketLog/_packaging/jars/maven/v1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lib-release-local" />
+      <option name="name" value="gc-jardimolinda.embratec.local-lib-releases" />
+      <option name="url" value="http://tl-douradilho-02.embratec.local:8081/artifactory/lib-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lib-snapshot-local" />
+      <option name="name" value="gc-jardimolinda.embratec.local-lib-snapshot" />
+      <option name="url" value="http://tl-douradilho-02.embratec.local:8081/artifactory/lib-snapshot-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ext-release-local" />
+      <option name="name" value="gc-jardimolinda.embratec.local-ext-releases" />
+      <option name="url" value="http://tl-douradilho-02.embratec.local:8081/artifactory/ext-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
